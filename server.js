@@ -10,11 +10,11 @@ app.get('/', function (req, res) {
      <ol>
      <li>Don't look at your phone yet 'Believe me he can wait'.</li>
      <li>Seat on Bed, streach and think how amazing life it is.</li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
+     <li>Look outside, go outside, how amazing clouds are right.</li>
+     <li>Have some breakfast, take a shower, smile, now you can see your phone...</li>
+     <li>Text someone that you love something positive 'making others happy, will make you happy'</li>
+     <li>Now go work and be happy because you have a job. </li>
+     
      </ol>
      </body>
    `);
